@@ -1,0 +1,22 @@
+body {
+    background-color: darkslategray;
+    color: rgb(191, 191, 191);
+}
+a {
+    color: rgb(191, 191, 191);
+    align-self: right;
+}
+h1 {
+    text-align: center;
+}
+table {
+    text-align: center;
+    margin: 21px auto;
+}
+h4 { 
+   text-align: center;
+}
+th, td{
+    border: 5px solid #8c6b48;
+    border-radius: 10px;
+}
