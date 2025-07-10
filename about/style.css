@@ -1,10 +1,12 @@
 body {
     background-color: darkslategray;
-    color: rgb(191, 191, 191);
+    color: rgb(0, 0, 0);
+    background-image: url(download.jpg);
+    font-size: larger;
 }
 p {
     font-size: larger;
 }
 a {
-    color: rgb(191, 191, 191);
+    color: rgb(0, 0, 0);
 }
