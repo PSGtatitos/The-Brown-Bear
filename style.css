@@ -1,9 +1,11 @@
 body {
     background-color: darkslategray;
-    color: rgb(191, 191, 191);
+    color: rgb(0, 0, 0);
+    background-image: url(download.jpg);
+    font-size: larger;
 }
 a {
-    color: rgb(191, 191, 191);
+    color: rgb(0, 0, 0);
     align-self: right;
 }
 h1 {
@@ -12,11 +14,19 @@ h1 {
 table {
     text-align: center;
     margin: 21px auto;
+    background-image: url(table-bg.jpg);
+    border-width: 2000px;
 }
 h4 { 
    text-align: center;
 }
-th, td{
+th {
     border: 5px solid #8c6b48;
     border-radius: 10px;
+}
+button {
+    background-color: palegoldenrod;
+    width: 263px;
+    height: 100px;
+    font-size: larger;
 }
