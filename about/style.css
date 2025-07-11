@@ -1,7 +1,6 @@
 body {
     background-color: darkslategray;
     color: rgb(0, 0, 0);
-    background-image: url(download.jpg);
     font-size: larger;
 }
 p {
@@ -9,4 +8,10 @@ p {
 }
 a {
     color: rgb(0, 0, 0);
+}
+header {
+    background-color: black;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
 }
