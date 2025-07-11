@@ -1,7 +1,6 @@
 body {
     background-color: darkslategray;
     color: rgb(0, 0, 0);
-    background-image: url(download.jpg);
     font-size: larger;
 }
 a {
@@ -10,12 +9,6 @@ a {
 }
 h1 {
     text-align: center;
-}
-table {
-    text-align: center;
-    margin: 21px auto;
-    background-image: url(table-bg.jpg);
-    border-width: 2000px;
 }
 h4 { 
    text-align: center;
@@ -29,4 +22,10 @@ button {
     width: 263px;
     height: 100px;
     font-size: larger;
+}
+header {
+    background-color: black;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
 }
