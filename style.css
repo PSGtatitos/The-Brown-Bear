@@ -18,6 +18,7 @@ th {
     border-radius: 10px;
 }
 button {
+    align-content: stretch;
     background-color: palegoldenrod;
     width: 263px;
     height: 100px;
