@@ -24,6 +24,7 @@ button {
     font-size: larger;
 }
 header {
+    align-content: stretch;
     background-color: black;
     margin-top: -10px;
     margin-right: -10px;
